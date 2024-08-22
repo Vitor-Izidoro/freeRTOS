@@ -1,0 +1,13 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  atividade1.c
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(35,45): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(32,8): warning C4189: 'msg': variável local é inicializada mas não referenciada
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(58,8): warning C4189: 'msg': variável local é inicializada mas não referenciada
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(81,1): warning C4431: faltando especificador de tipo - int assumido. Observação: C não suporta mais default-int
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(82,8): warning C4189: 'msg': variável local é inicializada mas não referenciada
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(21,1): warning C4702: código inacessível
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(52,1): warning C4702: código inacessível
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(77,1): warning C4702: código inacessível
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(97,1): warning C4702: código inacessível
+C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\atividade1.c(114,1): warning C4702: código inacessível
+  WIN32.vcxproj -> C:\FreeRTOS_PUCPR\FreeRTOS\Demo\Atividade1\Debug\Exemplo_05.exe

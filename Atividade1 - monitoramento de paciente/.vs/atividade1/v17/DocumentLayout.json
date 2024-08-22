@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FreeRTOS_PUCPR\\FreeRTOS\\Demo\\Atividade1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C686325E-3261-42F7-AEB1-DDE5280E1CEB}|WIN32.vcxproj|C:\\FreeRTOS_PUCPR\\FreeRTOS\\Demo\\Atividade1\\atividade1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C686325E-3261-42F7-AEB1-DDE5280E1CEB}|WIN32.vcxproj|solutionrelative:atividade1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C686325E-3261-42F7-AEB1-DDE5280E1CEB}|WIN32.vcxproj|C:\\FreeRTOS_PUCPR\\FreeRTOS\\Demo\\Atividade1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C686325E-3261-42F7-AEB1-DDE5280E1CEB}|WIN32.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\FreeRTOS_PUCPR\\FreeRTOS\\Demo\\Atividade1\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\FreeRTOS_PUCPR\\FreeRTOS\\Demo\\Atividade1\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-18T13:38:39.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "atividade1.c",
+              "DocumentMoniker": "C:\\FreeRTOS_PUCPR\\FreeRTOS\\Demo\\Atividade1\\atividade1.c",
+              "RelativeDocumentMoniker": "atividade1.c",
+              "ToolTip": "C:\\FreeRTOS_PUCPR\\FreeRTOS\\Demo\\Atividade1\\atividade1.c",
+              "RelativeToolTip": "atividade1.c",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGoAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-18T13:25:59.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
